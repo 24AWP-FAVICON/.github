@@ -44,3 +44,10 @@ We documented our progress and shared meeting notes on Notion. You can access ou
 3. Commit your changes (`git commit -m 'Add some feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a pull request.
+
+<br/>
+<br/>
+<br/>
+
+## DEMO
+<img src="https://github.com/user-attachments/assets/e8ef616a-5f79-49c3-a48f-64b697f02e47">
